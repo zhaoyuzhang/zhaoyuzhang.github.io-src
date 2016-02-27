@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Zhaoyu Zhang'
-SITENAME = 'http://zhaoyuzhang.github.io'
+SITENAME = 'Palladian'
 SITEURL = ''
 
 PATH = 'content'
@@ -23,6 +23,7 @@ AUTHOR_FEED_RSS = None
 LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Python.org', 'http://python.org/'),
          ('Jinja2', 'http://jinja.pocoo.org/'),
+         ('Github', 'http://github.com/'),
          )
 
 # Social widget
